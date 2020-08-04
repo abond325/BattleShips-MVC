@@ -7,7 +7,7 @@
 <p>Demonstrate your understanding of this application by:</p>
 <ol>
 <li>
-<p>Writeing a brief critique that assesses how the application either meets or could be modified to meed SOLID design principles.</p>
+<p>Writing a brief critique that assesses how the application either meets or could be modified to meet SOLID design principles.</p>
 </li>
 <li>
 <p>Write a short scoping document that details the high level development tasks required to implement the BattleShipMVC project.</p>
